@@ -1,16 +1,13 @@
 # euler94
 
-FIXME: description
+Euler project problem # 94 in clojure
 
 ## Installation
 
-Download from http://example.com/FIXME.
+clone this repo.
 
 ## Usage
-
-FIXME: explanation
-
-    $ java -jar euler94-0.1.0-standalone.jar [args]
+lein run.
 
 ## Options
 
@@ -30,7 +27,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2021 FIXME
+
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
